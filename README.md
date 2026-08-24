@@ -2,6 +2,7 @@
 
 FFT library for Arduino Zero / Adafruit Feather M0 (SAMD21 processor). FFT library for the Arduino Zero / Adafruit Feather M0 (SAMD21 processor). Original author: Adafruit. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.0.4. Upstream: <https://github.com/adafruit/Adafruit_ZeroFFT>.
 
+**Source last updated:** 2020-06-17  
 **Language:** C++ / Arduino  
 **Target:** Arduino (*)  
 **Output:** Arduino library
