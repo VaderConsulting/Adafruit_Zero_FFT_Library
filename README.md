@@ -23,6 +23,10 @@ FFT library for Arduino Zero / Adafruit Feather M0 (SAMD21 processor). FFT libra
 
 Install this folder as an Arduino library (Sketch → Include Library → Add .ZIP Library, or copy into `libraries/Adafruit_Zero_FFT_Library`). Open any `examples/*.ino` from the Arduino IDE.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 - **Original author / maintainer:** Adafruit
